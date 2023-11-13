@@ -2,7 +2,7 @@
 # N-Activation
 
 Code for our paper 
-[1-Lipschitz Neural Networks are more expressive with N-Activations](link). \
+[1-Lipschitz Neural Networks are more expressive with N-Activations](https://arxiv.org/abs/2311.06103). \
 It includes [code](src/models/layers/activations/n_activation.py) for the proposed $\mathcal{N}$-activation.
 
 ## Requirements:
